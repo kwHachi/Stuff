@@ -1,0 +1,1 @@
+import{_ as a,a as t,o as l,y as i}from"./chunks/framework.kB5lbtep.js";const m=JSON.parse('{"title":"南武文库","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),s={name:"index.md"};function o(p,e,r,n,c,_){return l(),t("div",null,[...e[0]||(e[0]=[i("",10)])])}const h=a(s,[["render",o]]);export{m as __pageData,h as default};
