@@ -1,1 +1,0 @@
-import{_ as l,a as r,o as i,y as a}from"./chunks/framework.kB5lbtep.js";const b=JSON.parse('{"title":"CLAUDE.md","description":"","frontmatter":{},"headers":[],"relativePath":"CLAUDE.md","filePath":"CLAUDE.md"}'),o={name:"CLAUDE.md"};function n(s,t,e,d,h,g){return i(),r("div",null,[...t[0]||(t[0]=[a("",226)])])}const c=l(o,[["render",n]]);export{b as __pageData,c as default};
