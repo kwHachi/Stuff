@@ -1,7 +1,6 @@
 # 联合主义南武共和国
 
-
-联合主义南武共和国（Rengoist Republic of Nambu），简称南武，是一个建立于1999年的单一体制、一党制的社会主义共和国。它是南武世界观下的核心政权，其意识形态、政治经济制度和发展道路均围绕[南武联合党](nambu_rengoist_party.md)的指导思想——[联合主义](rengoism.md)而构建。
+**联合主义南武共和国**，简称南武，是一个建立于1999年的单一体制、一党制的社会主义共和国。它是南武世界观下的核心政权，其意识形态、政治经济制度和发展道路均围绕[南武联合党](nambu_rengoist_party.md)的指导思想——[联合主义](rengoism.md)而构建。
 
 ---
 
@@ -12,7 +11,7 @@
 | **国家全称**   | 联合主义南武共和国（Rengoism Republic of Nambu）                  |
 | **简称**     | 南武                                                     |
 | **国体**     | 单一制、一党制社会主义共和国                                         |
-| **政体**     | 南武进步者大会制度                                              |
+| **政体**     | [南武进步者大会制度](nambu_congress.md)                         |
 | **官方意识形态** | [联合主义](rengoism.md)                                    |
 | **首都**     | [本部都](../others/honbu_metropolis.md)                   |
 | **国家格言**   | 坚忍奉公、联合斗争                                              |
@@ -43,7 +42,7 @@
 共和国的诞生源于对旧时代的彻底革命。在[圭江阀](../others/keiko_clique.md)的独裁统治与[南武共和国（现文国伪政权）](../others/republic_of_nambu.md)的资本主义压迫下，时任上阪市市长的[南武香淳](../people/nambu_kojun.md)同志于1984年开始探索救国之路，并逐步创立了[联合主义](rengoism.md)思想体系。
 
 - **1999年**：在[南武香淳](../people/nambu_kojun.md)的领导下，[南武联合党](nambu_rengoist_party.md)发动了伟大的[南武进步革命](../others/progressive_revolution.md)，成功推翻了[久崎文国](../people/hisaki_fumikuni.md)的反动统治，联合主义南武共和国正式成立。
-- **2021年**：在第二任总书记[户岸希节](../people/tokishi_kisetsu.md)的领导下，国家启动了[希节路线](kisetsu_line.md)经济改革，正式确立了[全面领导制](comprehensive_leadership.md)和[南武集团](nambu_commonwealth.md)特色经济模式。同年，为实现国家完全统一，发动了[争取全南武解放战争](./争取全南武解放战争.md)。
+- **2021年**：在第二任总书记[户岸希节](../people/tokishi_kisetsu.md)的领导下，国家启动了[希节路线](kisetsu_line.md)经济改革，正式确立了[全面领导制](comprehensive_leadership.md)和[南武集团](nambu_commonwealth.md)特色经济模式。同年，为实现国家完全统一，发动了[争取全南武解放战争](../others/whole_nambu_liberation_war.md)。
 - **2022年**：在南武的支持下，海实地区的进步人民成功发动[海实进步起义](../others/kaimi_progressive_uprising.md)，脱离[武塚国](../others/takezuka_nation.md)的控制，加入了共和国。
 - **2024年**：解放战争告一段落，共和国与[武塚国](../others/takezuka_nation.md)达成停战协议，收复的南国与武塚地方设立为特别管区。
 - **2031年至今**：现任总书记[川伊八海](../people/kawai_hachimi.md)提出[八海理论](hachimi_theory.md)，开启了建设[伟大南武赛博乌托邦](cyber_utopia.md)的新时代，致力于通过人工智能与社会主义的深度融合，实现国家的高度现代化。

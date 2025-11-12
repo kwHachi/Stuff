@@ -1,6 +1,6 @@
 # 联合主义
 
-联合主义（Rengoism）是[联合主义南武共和国](rengonist_republic_of_nambu.md)的官方意识形态与唯一指导思想。该理论由国父[南武香淳](../people/nambu_kojun.md)同志在领导南武人民进行革命斗争的实践中创立，**其由香淳同志奠基的原始理论体系，亦被广泛称为香淳思想**。它是南武世界中社会主义思想的具体体现与独立发展。
+联合主义（Rengoism）是[联合主义南武共和国](rengoist_republic_of_nambu.md)的官方意识形态与唯一指导思想。该理论由国父[南武香淳](../people/nambu_kojun.md)同志在领导南武人民进行革命斗争的实践中创立，**其由香淳同志奠基的原始理论体系，亦被广泛称为香淳思想**。它是南武世界中社会主义思想的具体体现与独立发展。
 
 ---
 
@@ -13,7 +13,7 @@
 | **别称**   | **香淳思想**（尤其指香淳同志整体的思想体系）                                       |
 | **创立者**  | [南武香淳](../people/nambu_kojun.md)                               |
 | **创立时间** | 1984年起逐步形成                                                     |
-| **核心地位** | [联合主义南武共和国](rengonist_republic_of_nambu.md)的立国之本与行动指南          |
+| **核心地位** | [联合主义南武共和国](rengoist_republic_of_nambu.md)的立国之本与行动指南          |
 | **理论渊源** | 基于南武国情独立发展的社会主义科学理论                                            |
 | **发展阶段** | **香淳思想**、[希节路线](kisetsu_line.md)、[八海理论](hachimi_theory.md)     |
 | **核心经典** | 南武香淳著作、[《纯真理报》](../others/junshinri_newspaper.md)社论、全南武进步者大会报告 |
@@ -62,7 +62,7 @@
 
 ### 希节路线：实践与发展
 
-[户岸希节](../people/tokishi_kisetsu.md)同志在继承香淳思想的基础上，创造性地提出了[希节路线](kisetsu_line.md)。该路线将联合主义的经济构想（如[联合所有制](commonwealth_ownership.md)）转化为具体的国家政策，建立了[南武集团](nambu_commonwealth.md)特色经济模式，并领导了[争取全南武解放战争](./争取全南武解放战争.md)的胜利。它是联合主义在社会主义建设初期的伟大实践与发展。
+[户岸希节](../people/tokishi_kisetsu.md)同志在继承香淳思想的基础上，创造性地提出了[希节路线](kisetsu_line.md)。该路线将联合主义的经济构想（如[联合所有制](commonwealth_ownership.md)）转化为具体的国家政策，建立了[南武集团](nambu_commonwealth.md)特色经济模式，并领导了[争取全南武解放战争](../others/whole_nambu_liberation_war.md)的胜利。它是联合主义在社会主义建设初期的伟大实践与发展。
 
 ### 八海理论：新时代的飞跃
 
